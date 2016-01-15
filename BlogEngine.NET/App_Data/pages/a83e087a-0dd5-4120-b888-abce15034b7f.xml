@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<page>
+  <title>Namespaces</title>
+  <description>Namespaces s&amp;atilde;o a maneira que o .NET evita confrontos de nome entre as classes. Eles s&amp;atilde;</description>
+  <content>&lt;pre id="tw-target-text" class="tw-data-text vk_txt tw-ta tw-text-small" dir="ltr" data-placeholder="Tradu&amp;ccedil;&amp;atilde;o" data-fulltext=""&gt;&lt;span lang="pt"&gt;Namespaces s&amp;atilde;o a maneira que o .NET evita confrontos de nome entre as classes. Eles s&amp;atilde;o projetados para prevenir
+situa&amp;ccedil;&amp;otilde;es em que voc&amp;ecirc; define uma classe para representar um cliente, o nome do seu cliente de classe, e ent&amp;atilde;o algu&amp;eacute;m
+mundo faz a mesma coisa. ( Um cen&amp;aacute;rio prov&amp;aacute;vel em que - a propor&amp;ccedil;&amp;atilde;o de empresas que t&amp;ecirc;m clientes
+parece ser bastante alta . )&lt;/span&gt;&lt;/pre&gt;</content>
+  <keywords />
+  <slug>namespaces</slug>
+  <parent>00000000-0000-0000-0000-000000000000</parent>
+  <isfrontpage>False</isfrontpage>
+  <showinlist>True</showinlist>
+  <ispublished>False</ispublished>
+  <isdeleted>True</isdeleted>
+  <sortorder>0</sortorder>
+  <datecreated>2016-01-14 20:29:00</datecreated>
+  <datemodified>2016-01-14 20:31:20</datemodified>
+</page>

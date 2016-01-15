@@ -1,0 +1,33 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Data: 14/01/2016 15:35:34
+Error sending email in SendMailMessage:  Falha ao enviar email. O nome remoto não pôde ser resolvido: 'mail.example.com'
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Data: 14/01/2016 15:39:15
+Error sending email in SendMailMessage:  Falha ao enviar email. Impossível conectar-se ao servidor remoto Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu 65.55.176.126:25
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Data: 14/01/2016 15:39:28
+Error sending email in SendMailMessage:  Falha ao enviar email. Impossível conectar-se ao servidor remoto Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu 65.55.176.126:25
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Data: 14/01/2016 15:39:32
+Error sending email in SendMailMessage:  Falha ao enviar email. Impossível conectar-se ao servidor remoto Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu 65.55.176.126:25
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Data: 14/01/2016 15:39:34
+Error sending email in SendMailMessage:  Falha ao enviar email. Impossível conectar-se ao servidor remoto Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu 65.55.176.126:25
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Data: 14/01/2016 15:40:49
+Error sending email in SendMailMessage:  Falha ao enviar email. Impossível conectar-se ao servidor remoto Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu 65.55.176.126:465
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Data: 14/01/2016 15:43:13
+Error sending email in SendMailMessage:  Falha ao enviar email. Impossível conectar-se ao servidor remoto Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu 65.55.176.126:25

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<post>
+  <author>Admin</author>
+  <title>Definição de Namespaces</title>
+  <description>Namespaces s&amp;atilde;o a maneira que o .NET evita confrontos de nome entre as classes. Eles s&amp;atilde;</description>
+  <content>&lt;div&gt;Namespaces s&amp;atilde;o a maneira que o .NET evita confrontos de nome entre as classes. Eles s&amp;atilde;o projetados para prevenir situa&amp;ccedil;&amp;otilde;es em que voc&amp;ecirc; define uma classe para representar um cliente, o nome do seu cliente de classe, e ent&amp;atilde;o algu&amp;eacute;m mundo faz a mesma coisa. ( Um cen&amp;aacute;rio prov&amp;aacute;vel em que - a propor&amp;ccedil;&amp;atilde;o de empresas que t&amp;ecirc;m clientes parece ser bastante alta . )&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class="tw-data-text vk_txt tw-ta tw-text-small" dir="ltr" data-placeholder="Tradu&amp;ccedil;&amp;atilde;o"&gt;&lt;span lang="pt"&gt;Um&amp;nbsp;&lt;/span&gt;Namespaces&amp;nbsp;&lt;span lang="pt"&gt;para nome n&amp;atilde;o &amp;eacute; mais do que um agrupamento de tipos de dados , mas tem o efeito de que os nomes de todos os dados tipos dentro de um namespace s&amp;atilde;o automaticamente prefixados com o nome do namespace. &amp;Eacute; tamb&amp;eacute;m poss&amp;iacute;vel namespaces ninho dentro de si. Por exemplo, a maioria das classes de base de prop&amp;oacute;sito geral .NET est&amp;atilde;o em um namespace chamado Sistema.&amp;nbsp;&lt;/span&gt;&lt;span style="line-height: 1.8;"&gt;A classe Array base &amp;eacute; neste espa&amp;ccedil;o de nomes, assim que seu nome completo &amp;eacute; &lt;/span&gt;&lt;span style="line-height: 1.8; color: #3366ff;"&gt;&lt;code&gt;System.Array&lt;/code&gt;&lt;/span&gt;&lt;span style="line-height: 1.8;"&gt;.&lt;/span&gt;&lt;/div&gt;
+&lt;div class="tw-data-text vk_txt tw-ta tw-text-small" dir="ltr" data-placeholder="Tradu&amp;ccedil;&amp;atilde;o"&gt;&amp;nbsp;&lt;/div&gt;
+&lt;p&gt;&lt;span lang="pt"&gt;.NET Requer que todos os tipos a serem definidos em um namespace; por exemplo, voc&amp;ecirc; pode colocar seu cliente classe em um namespace chamado &lt;strong&gt;YourCompanyName.ProjectName.&lt;/strong&gt; Essa classe teria o nome completo &lt;strong&gt;YourCompanyName.ProjectName.Customer&lt;/strong&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span lang="pt"&gt;Microsoft recomenda que, para a maioria dos prop&amp;oacute;sitos que voc&amp;ecirc; fornecer , pelo menos, dois nomes de namespace aninhadas: a primeira representa o nome de sua empresa, e o segundo representa o nome da tecnologia ou software pacote de qual a classe &amp;eacute; membro , como &lt;strong&gt;YourCompanyName.SalesServices.Customer.&lt;/strong&gt; este protege , na maioria das situa&amp;ccedil;&amp;otilde;es , as classes em seu aplicativo de nome poss&amp;iacute;vel se choca com classes escritas por outras organiza&amp;ccedil;&amp;otilde;es.&lt;/span&gt;&lt;/p&gt;</content>
+  <ispublished>True</ispublished>
+  <isdeleted>False</isdeleted>
+  <iscommentsenabled>True</iscommentsenabled>
+  <pubDate>2016-01-14 20:41:00</pubDate>
+  <lastModified>2016-01-14 20:49:57</lastModified>
+  <raters>0</raters>
+  <rating>0</rating>
+  <slug>definicao-de-namespaces</slug>
+  <tags />
+  <comments />
+  <categories>
+    <category>d454da31-e9ee-4c12-b8a6-489ea186fcf6</category>
+  </categories>
+  <notifications />
+</post>

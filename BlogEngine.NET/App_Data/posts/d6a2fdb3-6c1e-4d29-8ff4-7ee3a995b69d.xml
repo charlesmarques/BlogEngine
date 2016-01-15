@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<post>
+  <author>Admin</author>
+  <title>Tipos de valor e tipos de referência em C#</title>
+  <description>Antes de analisar os tipos de dados em C # , &amp;eacute; importante compreender que o C # distingue ent</description>
+  <content>&lt;p&gt;&lt;span lang="pt"&gt;Antes de analisar os tipos de dados em C #, &amp;eacute; importante compreender que o C # distingue entre dois categorias de tipo de dados :&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span lang="pt"&gt;➤➤ tipos Valor&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span lang="pt"&gt;➤➤ Tipos de refer&amp;ecirc;ncia&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span lang="pt"&gt;Conceitualmente, a diferen&amp;ccedil;a &amp;eacute; que um tipo de valor armazena seu valor diretamente, enquanto um tipo de refer&amp;ecirc;ncia armazena uma refer&amp;ecirc;ncia para o valor. Esses tipos s&amp;atilde;o armazenados em locais diferentes na mem&amp;oacute;ria; tipos de valor s&amp;atilde;o armazenadas em uma &amp;aacute;rea conhecida como a pilha, e tipos de refer&amp;ecirc;ncia s&amp;atilde;o armazenados em uma &amp;aacute;rea conhecida como o &lt;em&gt;managed heap&lt;/em&gt;. &amp;Eacute; importante estar ciente de se um tipo &amp;eacute; um tipo de valor ou um tipo de refer&amp;ecirc;ncia por causa do efeito diferente a cada atribui&amp;ccedil;&amp;atilde;o tem. Para exemplo, int &amp;eacute; um tipo de valor, o que significa que os seguintes resultados da instru&amp;ccedil;&amp;atilde;o em dois locais na mem&amp;oacute;ria armazenar o valor 20, veja o exemplo abaixo:&lt;/span&gt;&lt;/p&gt;
+&lt;pre class="brush:csharp;auto-links:false;toolbar:false" contenteditable="false"&gt;// I e J s&amp;atilde;o ambos do tipo
+
+int i = 20;
+
+j = i;
+
+
+
+&lt;/pre&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span lang="pt"&gt;No entanto, considere o seguinte exemplo . Para este c&amp;oacute;digo , suponha que voc&amp;ecirc; tenha definido uma classe chamada Vector ; e Vector que &amp;eacute; um tipo de refer&amp;ecirc;ncia e tem um membro vari&amp;aacute;vel int chamado Valor:&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;pre class="brush:csharp;auto-links:false;toolbar:false;tab-size:7" contenteditable="false"&gt;Vector x, y;
+x = new Vector();
+x.Value = 30; //&amp;nbsp;Value&amp;nbsp;&amp;eacute; um campo definido na classe Vector
+
+y = x;
+Console.WriteLine(y.Value);
+y.Value = 50;
+Console.WriteLine(x.Value);&lt;/pre&gt;
+&lt;p&gt;&lt;span lang="pt"&gt;&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;</content>
+  <ispublished>True</ispublished>
+  <isdeleted>False</isdeleted>
+  <iscommentsenabled>True</iscommentsenabled>
+  <pubDate>2016-01-14 21:34:00</pubDate>
+  <lastModified>2016-01-14 23:21:51</lastModified>
+  <raters>0</raters>
+  <rating>0</rating>
+  <slug>tipos-de-valor-e-tipos-de-referencia-em-c</slug>
+  <tags />
+  <comments />
+  <categories>
+    <category>52979c34-d9d1-4791-b618-efd5efcb3aac</category>
+  </categories>
+  <notifications />
+</post>

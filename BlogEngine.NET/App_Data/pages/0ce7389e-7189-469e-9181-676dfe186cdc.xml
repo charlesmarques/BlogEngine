@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<page>
+  <title>Definição de Namespaces</title>
+  <description>Namespaces s&amp;atilde;o a maneira que o .NET evita confrontos de nome entre as classes. Eles s&amp;atilde;</description>
+  <content>&lt;h4 style="text-align: left;"&gt;&lt;em&gt;Namespaces&lt;/em&gt; s&amp;atilde;o a maneira que o .NET evita confrontos de nome entre as classes. Eles s&amp;atilde;o projetados para prevenir situa&amp;ccedil;&amp;otilde;es em que voc&amp;ecirc; define uma classe para representar um cliente, o nome do seu cliente de classe, e ent&amp;atilde;o algu&amp;eacute;m mundo faz a mesma coisa. ( Um cen&amp;aacute;rio prov&amp;aacute;vel em que - a propor&amp;ccedil;&amp;atilde;o de empresas que t&amp;ecirc;m clientes parece ser bastante alta . )&lt;/h4&gt;
+&lt;h4 class="tw-data-text vk_txt tw-ta tw-text-small" dir="ltr" data-placeholder="Tradu&amp;ccedil;&amp;atilde;o"&gt;&lt;span lang="pt"&gt;Um&amp;nbsp;&lt;/span&gt;&lt;em&gt;Namespaces&amp;nbsp;&lt;/em&gt;&lt;span lang="pt"&gt;para nome n&amp;atilde;o &amp;eacute; mais do que um agrupamento de tipos de dados , mas tem o efeito de que os nomes de todos os dados tipos dentro de um namespace s&amp;atilde;o automaticamente prefixados com o nome do namespace. &amp;Eacute; tamb&amp;eacute;m poss&amp;iacute;vel namespaces ninho dentro de si. Por exemplo , a maioria das classes de base de prop&amp;oacute;sito geral .NET est&amp;atilde;o em um namespace chamado Sistema . A classe Array base &amp;eacute; neste espa&amp;ccedil;o de nomes , assim que seu nome completo &amp;eacute; &lt;span style="color: #000000;"&gt;&lt;code&gt;System.Array&lt;/code&gt;&lt;/span&gt; .&lt;/span&gt;&lt;/h4&gt;</content>
+  <keywords />
+  <slug>definicao-de-namespaces</slug>
+  <parent>00000000-0000-0000-0000-000000000000</parent>
+  <isfrontpage>False</isfrontpage>
+  <showinlist>True</showinlist>
+  <ispublished>False</ispublished>
+  <isdeleted>True</isdeleted>
+  <sortorder>0</sortorder>
+  <datecreated>2016-01-14 20:39:00</datecreated>
+  <datemodified>2016-01-14 20:42:56</datemodified>
+</page>

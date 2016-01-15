@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<post>
+  <author>Admin</author>
+  <title>Constantes</title>
+  <description>Constantes Como o nome implica , uma constante &amp;eacute; uma vari&amp;aacute;vel cujo valor n&amp;atilde;o po</description>
+  <content>&lt;p&gt;&lt;span lang="pt"&gt;Constantes Como o nome implica , uma constante &amp;eacute; uma vari&amp;aacute;vel cujo valor n&amp;atilde;o pode ser alterada ao longo do seu tempo de vida . Prefixar uma vari&amp;aacute;vel com a palavra-chave const quando &amp;eacute; declarada e inicializada designa essa vari&amp;aacute;vel como um constante:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span lang="pt"&gt;Exemplo de uma Constante:&lt;/span&gt;&lt;/p&gt;
+&lt;pre class="brush:csharp;auto-links:false;toolbar:false;tab-size:6" contenteditable="false"&gt;const int a = 100; // Este valor n&amp;atilde;o pode ser alterado.
+&lt;/pre&gt;
+&lt;p&gt;&lt;span lang="pt"&gt;Constantes tem as seguintes caracter&amp;iacute;sticas :&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span lang="pt"&gt;➤➤ Eles devem ser inicializadas quando s&amp;atilde;o declaradas ; e depois que&amp;nbsp;um valor for&amp;nbsp;atribu&amp;iacute;do, ele nunca pode ser sobrescrito.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span lang="pt"&gt;➤➤ O valor de uma constante deve ser comput&amp;aacute;vel em tempo de compila&amp;ccedil;&amp;atilde;o . Portanto, voc&amp;ecirc; n&amp;atilde;o pode inicializar uma constante com um valor de uma vari&amp;aacute;vel de tomada . Se voc&amp;ecirc; precisar fazer isso , voc&amp;ecirc; deve usar um campo s&amp;oacute; de leitura.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span lang="pt"&gt;➤➤ Constantes s&amp;atilde;o sempre implicitamente est&amp;aacute;tica. No entanto n&amp;atilde;o s&amp;atilde;o permitido incluem o modificador &lt;strong&gt;static&lt;/strong&gt; na declara&amp;ccedil;&amp;atilde;o constantes.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span lang="pt"&gt;H&amp;aacute; pelo menos tr&amp;ecirc;s vantagens para a utiliza&amp;ccedil;&amp;atilde;o de constantes em seus programas:&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span lang="pt"&gt;➤➤ Constantes tornar seus programas mais f&amp;aacute;ceis de ler.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span lang="pt"&gt;➤➤ Constantes tornar seus programas mais f&amp;aacute;ceis de modificar. Por exemplo, suponha que voc&amp;ecirc; tem um Constante SalesTax em um de seus programas C# , e essa constante &amp;eacute; atribu&amp;iacute;do um valor de 6 por cento. Se a taxa de imposto sobre as vendas muda mais tarde, voc&amp;ecirc; pode modificar o comportamento de todos os c&amp;aacute;lculos fiscais atrav&amp;eacute;s da simples atribui&amp;ccedil;&amp;atilde;o de um novo valor para a constante; voc&amp;ecirc; n&amp;atilde;o tem que ca&amp;ccedil;ar atrav&amp;eacute;s de seu c&amp;oacute;digo para o valor de 0,06 e alterar cada um, esperando que voc&amp;ecirc; vai encontrar todos eles.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span lang="pt"&gt;➤➤ Constantes ajudar a evitar erros em seus programas. Se voc&amp;ecirc; tentar atribuir um outro valor para A algures mais constante no seu programa diferente no ponto em que a constante &amp;eacute; declarada, o compilador ir&amp;aacute; sinalizar o erro.&lt;/span&gt;&lt;/p&gt;
+&lt;pre id="tw-target-text" class="tw-data-text vk_txt tw-ta tw-text-small" dir="ltr" data-placeholder="Tradu&amp;ccedil;&amp;atilde;o" data-fulltext=""&gt;&lt;span lang="pt"&gt;&amp;nbsp;&lt;/span&gt;&lt;/pre&gt;</content>
+  <ispublished>True</ispublished>
+  <isdeleted>False</isdeleted>
+  <iscommentsenabled>True</iscommentsenabled>
+  <pubDate>2016-01-14 21:06:00</pubDate>
+  <lastModified>2016-01-14 21:25:40</lastModified>
+  <raters>0</raters>
+  <rating>0</rating>
+  <slug>constantes</slug>
+  <tags />
+  <comments />
+  <categories>
+    <category>52979c34-d9d1-4791-b618-efd5efcb3aac</category>
+  </categories>
+  <notifications />
+</post>
